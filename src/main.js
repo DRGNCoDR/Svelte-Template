@@ -1,9 +1,9 @@
-import App from './app-test.svelte';
+import App from './app.svelte';
 
 const app = new App({
   target: document.body,
   props: {
-    name: 'Daffodil',
+    name: 'Daffodilasdf',
   },
 });
 
